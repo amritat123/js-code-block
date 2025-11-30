@@ -13,4 +13,7 @@
 // require("./HoistingProblems/problem4");
 // require("./HoistingProblems/problem5");
 // require("./HoistingProblems/problem6");
-require("./HoistingProblems/problem7");
+// require("./HoistingProblems/problem7");
+// require("./HoistingProblems/problem8");
+// require("./HoistingProblems/problem9");
+// require("./HoistingProblems/problem10");
