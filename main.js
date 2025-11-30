@@ -17,3 +17,4 @@
 // require("./HoistingProblems/problem8");
 // require("./HoistingProblems/problem9");
 // require("./HoistingProblems/problem10");
+require("./HoistingProblems/boolValueProblem11");
