@@ -17,4 +17,9 @@
 // require("./HoistingProblems/problem8");
 // require("./HoistingProblems/problem9");
 // require("./HoistingProblems/problem10");
-require("./HoistingProblems/boolValueProblem11");
+// require("./HoistingProblems/boolValueProblem11");
+// Variables-----------
+// require("./Problem/VariableProblems/prob1")
+// require("./Problem/VariableProblems/prob2")
+// require("./Problem/VariableProblems/prob3")
+// require("./Problem/VariableProblems/prob4")
