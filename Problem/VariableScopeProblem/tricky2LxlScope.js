@@ -15,4 +15,4 @@ const fn2 = test();
 fn2();
 
 
-// output - 1 2 1
+// output  - Amrita

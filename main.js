@@ -42,4 +42,7 @@
 // require("./Problem/VariableScopeProblem/lexicalScope6");
 // require("./Problem/VariableScopeProblem/nestedLxlScope");
 // require("./Problem/VariableScopeProblem/trickyLxlScope");
-require("./Problem/VariableScopeProblem/tricky2LxlScope");
+// require("./Problem/VariableScopeProblem/tricky2LxlScope");
+
+// Closure Problem----
+require("./Problem/Closure/clos1")
