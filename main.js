@@ -45,4 +45,8 @@
 // require("./Problem/VariableScopeProblem/tricky2LxlScope");
 
 // Closure Problem----
-require("./Problem/Closure/clos1")
+// require("./Problem/Closure/clos1")
+// require("./Problem/Closure/clos2")
+// require("./Problem/Closure/clos3")
+// require("./Problem/Closure/loopPlusClos")
+require("./Problem/Closure/loopPlusClosUsingLet")
