@@ -37,3 +37,9 @@
 // require("./Problem/VariableScopeProblem/scope1");
 // require("./Problem/VariableScopeProblem/scope2");
 // require("./Problem/VariableScopeProblem/scope3");
+// require("./Problem/VariableScopeProblem/lexicalScope4");
+// require("./Problem/VariableScopeProblem/lexicalScope5");
+// require("./Problem/VariableScopeProblem/lexicalScope6");
+// require("./Problem/VariableScopeProblem/nestedLxlScope");
+// require("./Problem/VariableScopeProblem/trickyLxlScope");
+require("./Problem/VariableScopeProblem/tricky2LxlScope");
