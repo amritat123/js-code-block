@@ -18,7 +18,8 @@
 // require("./HoistingProblems/problem9");
 // require("./HoistingProblems/problem10");
 // require("./HoistingProblems/boolValueProblem11");
-// Variables-----------
+
+// Variables----------------------
 // require("./Problem/VariableProblems/prob1")
 // require("./Problem/VariableProblems/prob2")
 // require("./Problem/VariableProblems/prob3")
@@ -30,4 +31,9 @@
 // require("./Problem/VariableProblems/prob9")
 // require("./Problem/VariableProblems/prob10")
 // require("./Problem/VariableProblems/prob11")
-require("./Problem/VariableProblems/prob12")
+// require("./Problem/VariableProblems/prob12")
+
+// Variable Scope Problem----------------------
+// require("./Problem/VariableScopeProblem/scope1");
+// require("./Problem/VariableScopeProblem/scope2");
+// require("./Problem/VariableScopeProblem/scope3");
