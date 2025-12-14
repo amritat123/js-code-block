@@ -44,7 +44,7 @@
 // require("./Problem/VariableScopeProblem/trickyLxlScope");
 // require("./Problem/VariableScopeProblem/tricky2LxlScope");
 
-// Closure Problem----
+// Closure Problem----------------------
 // require("./Problem/Closure/clos1")
 // require("./Problem/Closure/clos2")
 // require("./Problem/Closure/clos3")
@@ -52,4 +52,13 @@
 // require("./Problem/Closure/clos5")
 // require("./Problem/Closure/loopPlusClos")
 // require("./Problem/Closure/loopPlusClosUsingLet")
-require("./Problem/Closure/dataHiding")
+// require("./Problem/Closure/dataHiding")
+
+// this keyword----------------------
+// require("./Problem/This/thisInObj1")
+// require("./Problem/This/thisInObj2")
+// require("./Problem/This/thisInObj3")
+// require("./Problem/This/thisInNormalFunc")
+// require("./Problem/This/thisInArrowFunc")
+// require("./Problem/This/thisSetTimeOut")
+// require("./Problem/This/thisSetTimeOutwithArrow")
